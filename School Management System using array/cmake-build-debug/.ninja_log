@@ -1,0 +1,11 @@
+# ninja log v5
+0	190	6836813669883658	build.ninja	ca701dd9af2ac163
+177	300	6836812602996671	School_Management_System_using_array.exe	77a9cd298e597685
+161	332	6836395105298193	School_Management_System_using_Array.exe	113d16ed64164bf8
+14	166	6836812601750129	CMakeFiles/School_Management_System_using_array.dir/menu.c.obj	812c5edce3f99b2
+0	131	6836812601284380	CMakeFiles/School_Management_System_using_array.dir/main.c.obj	10dd15ea70d93b83
+7	176	6836812601867283	CMakeFiles/School_Management_System_using_array.dir/stack.c.obj	9f9d14ef054e4f3c
+29	312	6837241878260570	CMakeFiles/School_Management_System_using_array.dir/main.c.obj	3b44ecadc0e052a4
+3	315	6837241878270649	CMakeFiles/School_Management_System_using_array.dir/menu.c.obj	6f3f9f36531b7063
+40	323	6837241878414688	CMakeFiles/School_Management_System_using_array.dir/stack.c.obj	c618767bd51c5fdd
+323	605	6837241881118513	School_Management_System_using_array.exe	77a9cd298e597685

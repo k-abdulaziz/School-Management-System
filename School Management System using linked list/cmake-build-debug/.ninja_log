@@ -1,0 +1,13 @@
+# ninja log v5
+3	146	6836801602492052	CMakeFiles/School_Management_System_SLL.dir/linked_list.c.obj	7dc5121e5512a865
+146	310	6836801604033655	School_Management_System_SLL.exe	625f32b80fd3400a
+11	130	6836801602320492	CMakeFiles/School_Management_System_SLL.dir/main.c.obj	98cd7358049e9054
+18	142	6836801602470677	CMakeFiles/School_Management_System_SLL.dir/menu.c.obj	185150a5ea23eccd
+13	133	6836815539845450	CMakeFiles/School_Management_System_SLL.dir/menu.c.obj	b50b1808d1772e5c
+21	134	6836815539845450	CMakeFiles/School_Management_System_SLL.dir/main.c.obj	423e9e6a609c4da
+3	141	6836815539926395	CMakeFiles/School_Management_System_SLL.dir/linked_list.c.obj	e6fcc7e2f362c0d8
+142	261	6836815541060459	School_Management_System_SLL.exe	625f32b80fd3400a
+11	141	6837317743540213	CMakeFiles/School_Management_System_SLL.dir/menu.c.obj	b50b1808d1772e5c
+19	148	6837317743604802	CMakeFiles/School_Management_System_SLL.dir/main.c.obj	423e9e6a609c4da
+2	150	6837317743628875	CMakeFiles/School_Management_System_SLL.dir/linked_list.c.obj	e6fcc7e2f362c0d8
+3	132	6837317832065142	School_Management_System_SLL.exe	625f32b80fd3400a

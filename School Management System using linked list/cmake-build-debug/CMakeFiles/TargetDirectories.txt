@@ -1,0 +1,3 @@
+C:/Users/khale/CLionProjects/School Management System using linked list/cmake-build-debug/CMakeFiles/School_Management_System_SLL.dir
+C:/Users/khale/CLionProjects/School Management System using linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/khale/CLionProjects/School Management System using linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
